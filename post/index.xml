@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Fariborz Nasr Azadani</title>
+    <link>https://fariborz-nasr.github.io/post/</link>
+    <description>Recent content in Projects on Fariborz Nasr Azadani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://fariborz-nasr.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: The New York Social Graph</title>
+      <link>https://fariborz-nasr.github.io/post/data-wrangling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fariborz-nasr.github.io/post/data-wrangling/</guid>
+      <description>The project is focused on analyzing the social graph of New York&amp;rsquo;s social elite based on photo captions from the New York Social Diary website. The goal is to identify the most popular socialites, influential individuals, and tightly coupled pairs within the social network.
+To achieve this, the project involves several steps:
+Getting a list of parties: The project utilizes an API to retrieve a list of parties and their dates from the New York Social Diary website.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Predicting Star Ratings Using Machine Learning</title>
+      <link>https://fariborz-nasr.github.io/post/machine-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fariborz-nasr.github.io/post/machine-learning/</guid>
+      <description>The goal is to utilize machine learning to forecast the popularity of a newly opened venue based on the available information. To achieve this, I trained a model using a data set of venue popularities obtained from Yelp. The data set includes various metadata about the venue, such as its location and the type of food served, alongside a star rating.
+link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Explored New York City&#39;s Cuisine Violations</title>
+      <link>https://fariborz-nasr.github.io/post/sql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fariborz-nasr.github.io/post/sql/</guid>
+      <description>The project involves SQL queries and data manipulation to gain insights into restaurant inspections in New York City, considering factors such as scores, ZIP codes, boroughs, and violations.
+link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Analyzing Review Text using NLP</title>
+      <link>https://fariborz-nasr.github.io/post/nlp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fariborz-nasr.github.io/post/nlp/</guid>
+      <description>The project focused on handling unstructured data, specifically Yelp review data, to extract sentiment and gain insights from the text. The project involves building models to predict the rating of a review based on its text.
+link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 5: Spark</title>
+      <link>https://fariborz-nasr.github.io/post/spark/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fariborz-nasr.github.io/post/spark/</guid>
+      <description>I handled a 10 GB collection of XML files containing user actions on the Stack Overflow website. Through meticulous parsing, cleaning, and processing, I obtained valuable insights into user behavior. By leveraging this knowledge, I utilized predictive analytics to forecast the long-term actions of new users. Additionally, I built and trained a word2vec model and a classification model based on question tags, employing RDDs and DataFrames for efficient data manipulation. To streamline the entire process, I developed a machine learning pipeline using Spark ML.</description>
+    </item>
+    
+    <item>
+      <title>Project 6: Image Classification with TensorFlow</title>
+      <link>https://fariborz-nasr.github.io/post/tensorflow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fariborz-nasr.github.io/post/tensorflow/</guid>
+      <description>The project involves image classification using TensorFlow. The goal is to build models that can classify images into one of ten classes. The dataset used is the CIFAR-10 dataset, which consists of 60,000 color images of size 32x32 pixels, divided into ten classes.
+link to Github Repository</description>
+    </item>
+    
+  </channel>
+</rss>
